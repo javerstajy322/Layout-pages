@@ -18,3 +18,6 @@
 
 * FirstGrid: [link](./grid/testGrid/) [Копипаста]  
 * Alysayed: [link](./grid/alysayed/) [Попытка сделать на grid.]  
+
+## Тестовые задания.
+* Slider [only 1024x768] [jQuery] [Swiper] : [link](../slider) [Понимаю что его надо было делать на реакт.] 
