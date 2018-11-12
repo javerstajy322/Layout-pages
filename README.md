@@ -1,5 +1,3 @@
-# Layouts.
-
 ## ./Bootstrap
 
 * Altair: [link](./bootstrap/altair/)
@@ -18,5 +16,5 @@
 
 ## ./Grid
 
-* FirstGrid: [link](./grid/testGrid/) [Копипаста, моя]  
+* FirstGrid: [link](./grid/testGrid/) [Копипаста]  
 * Alysayed: [link](./grid/alysayed/) [Попытка сделать на grid.]  
