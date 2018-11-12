@@ -11,8 +11,8 @@
 ## ./Fix
 
 * Nerds:   
-* * index: [link](./fix/nerds/flex/)
-* * catalog: [link](./fix/nerds/flex/catalog.html)  
+  * index: [link](./fix/nerds/flex/)
+  * catalog: [link](./fix/nerds/flex/catalog.html)  
 * Perth: [link](./fix/perth/app/) [Кривой на всех кроме desktop]   
 * Seabird: [link](./fix/seabird/) [Простой]  
 
