@@ -2,11 +2,11 @@
 
 ## ./Bootstrap
 
-* Altair: [../bootstrap/altair/]
-* Boots: [../bootstrap/boots/] [Не готов]  
-* Moose: [../bootstrap/moose/]
-* One luke: [../bootstrap/oneluke/]
-* Tiny one: [../bootstrap/tinyone/] [Заброшено.]  
+* Altair: [link](../bootstrap/altair/)
+* Boots: [link](../bootstrap/boots/) [Не готов]  
+* Moose: [link](../bootstrap/moose/)
+* One luke: [link](../bootstrap/oneluke/)
+* Tiny one: [link](../bootstrap/tinyone/) [Заброшено.]  
 
 ## ./Fix
 
