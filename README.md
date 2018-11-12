@@ -2,21 +2,21 @@
 
 ## ./Bootstrap
 
-* Altair: [link](../bootstrap/altair/)
-* Boots: [link](../bootstrap/boots/) [Не готов]  
-* Moose: [link](../bootstrap/moose/)
-* One luke: [link](../bootstrap/oneluke/)
-* Tiny one: [link](../bootstrap/tinyone/) [Заброшено.]  
+* Altair: [link](./bootstrap/altair/)
+* Boots: [link](./bootstrap/boots/) [Не готов]  
+* Moose: [link](./bootstrap/moose/)
+* One luke: [link](./bootstrap/oneluke/)
+* Tiny one: [link](./bootstrap/tinyone/) [Заброшено.]  
 
 ## ./Fix
 
 * Nerds:   
-** index: https://javerstajy322.github.io/Layout-pages/fix/nerds/flex/  
-** catalog: https://javerstajy322.github.io/Layout-pages/fix/nerds/flex/catalog.html  
-* Perth: https://javerstajy322.github.io/Layout-pages/fix/perth/app/ [Кривой на всех кроме desktop]   
-* Seabird: https://javerstajy322.github.io/Layout-pages/fix/seabird/ [Простой]  
+* * index: [link](./fix/nerds/flex/)
+* * catalog: [link](./fix/nerds/flex/catalog.html)  
+* Perth: [link](./fix/perth/app/) [Кривой на всех кроме desktop]   
+* Seabird: [link](./fix/seabird/) [Простой]  
 
 ## ./Grid
 
-* FirstGrid: https://javerstajy322.github.io/Layout-pages/grid/testGrid/ [Копипаста, моя]  
-* Alisaed: https://javerstajy322.github.io/Layout-pages/grid/alysayed/ [Попытка сделать на grid. Получилось так себе.]  
+* FirstGrid: [link](./grid/testGrid/) [Копипаста, моя]  
+* Alysayed: [link](./grid/alysayed/) [Попытка сделать на grid.]  
